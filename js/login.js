@@ -1,0 +1,1 @@
+document.write('<form action="login.php" method="post"><input type="text" name="username" class="user" value="" required placeholder="Username" />    <input type="password" name="password" class="user" value="" required placeholder="********" /><button type="submit">Login</button></form>');
